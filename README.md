@@ -1,7 +1,10 @@
 ## HIIII HONEY
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **toiviv/toiviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![бубубубубуббебебебебе](https://github.com/user-attachments/assets/69878e7c-b10c-41c3-aa59-74e9e6ef339c)
 
 Here are some ideas to get you started:
 
