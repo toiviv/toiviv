@@ -20,5 +20,6 @@
    ### :crocodile: About Me :
 :candy: DNI:
 гомофобы; педофилы, зоофилы и тд; осуждаете религиозных людей; романтизируете психические расстройства; фанаты братишкина и прочих подобных стримером; принимаете самодиагностику за точный диагноз; абсолютно не понимаете шутки
+
 :tea: My main fds:
 Игры марутоку, Honkai: Star Rail, alien stage, Reverse: 1999, Stardew Valley, Stranger Things, Omori, Hello Charlotte, it, Attack on Titan, Saihate Station, Ганнибал, союз серокрылых, KISM, Nana, Danganronpa
