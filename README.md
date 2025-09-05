@@ -8,3 +8,6 @@
 
   <a href="https://www.tiktok.com/@fayfimizzz?_t=ZS-8zTphKC4V0v&_r=1">
     <img src="https://img.shields.io/badge/TikTok-blue?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Yandex Music-yellow?style=for-the-badge&logo=Yandex Music&logoColor=white" alt="Youtube Badge"/>
