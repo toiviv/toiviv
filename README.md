@@ -18,8 +18,8 @@
   <a href=@pweasti"">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="Telegram Badge"/>
    
-    
-    ---
+
+  ---
 
 
    ### :crocodile: About Me :
