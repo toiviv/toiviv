@@ -16,5 +16,8 @@
     <img src="https://img.shields.io/badge/YandexMusic-yellow?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="YandexMusic Badge"/>
 
     ---
-    
+
    ### :crocodile: About Me :
+:candy: DNI
+гомофобы; педофилы, зоофилы и тд; осуждаете религиозных людей; романтизируете психические расстройства; фанаты братишкина и прочих подобных стримером; принимаете самодиагностику за точный диагноз; абсолютно не понимаете шутки
+
