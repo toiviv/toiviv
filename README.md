@@ -14,10 +14,17 @@
   </a>
   <a href="https://music.yandex.ru/users/magaox/playlists/1024?utm_medium=copy_link">
     <img src="https://img.shields.io/badge/YandexMusic-yellow?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="YandexMusic Badge"/>
-
+</a>
+  <a href=@pweasti"">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="Telegram Badge"/>
     ---
 
    ### :crocodile: About Me :
+ :dango: Рассблабленно-избегающий тп
+ интересуюсь сектами и тру краймом
+ на таро расклады делаю (НЕ ВЕРЮ В ЭТОО)
+ химбио
+
 :candy: DNI:
 гомофобы; педофилы, зоофилы и тд; осуждаете религиозных людей; романтизируете психические расстройства; фанаты братишкина и прочих подобных стримером; принимаете самодиагностику за точный диагноз; абсолютно не понимаете шутки
 
