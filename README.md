@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/81480306-df86-49d7-9ec0-82b376e0d305" width="700"/>
 </div>
 ## HIIII HONEY
+@pweasti tg
 
 ---
 
@@ -14,10 +15,7 @@
   </a>
   <a href="https://music.yandex.ru/users/magaox/playlists/1024?utm_medium=copy_link">
     <img src="https://img.shields.io/badge/YandexMusic-yellow?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="YandexMusic Badge"/>
-</a>
-  <a href="t.me/pweasti">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="Telegram Badge"/>
-   
+
 
   ---
 
