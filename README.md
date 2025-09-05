@@ -1,5 +1,4 @@
 ## HIIII HONEY
 <div id="header" align="center">
-  <img src="![бубубубубуббебебебебе](https://github.com/user-attachments/assets/81480306-df86-49d7-9ec0-82b376e0d305)
-" width="100"/>
+  <img src="https://github.com/user-attachments/assets/81480306-df86-49d7-9ec0-82b376e0d305" width="100"/>
 </div>
