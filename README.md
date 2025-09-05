@@ -11,3 +11,4 @@
   </a>
   <a href="https://music.yandex.ru/users/magaox/playlists/1024?utm_medium=copy_link">
     <img src="https://img.shields.io/badge/YandexMusic-yellow?style=for-the-badge&logo=YandexMusic&logoColor=white" alt="YandexMusic Badge"/>
+### :woman_technologist: About Me :
