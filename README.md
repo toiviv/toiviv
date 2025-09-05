@@ -1,4 +1,4 @@
-## Hi there 👋
+## HIIII HONEY
 
 <!--
 **toiviv/toiviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-![бубубубубуббебебебебе](https://github.com/user-attachments/assets/5958b303-c89d-4e1c-9caa-11f3b4ad3fc6)
